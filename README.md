@@ -65,7 +65,7 @@ This end-to-end data science project covers:
 
 ```bash
 # Clone the repository
-git clone https://github.com/18201550122/GOOGL-Stock-Prediction.git
+git clone https://github.com/18201550122/zzz.git
 cd GOOGL-Stock-Prediction
 
 # Install dependencies
