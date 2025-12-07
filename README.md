@@ -65,7 +65,7 @@ This end-to-end data science project covers:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/GOOGL-Stock-Prediction.git
+git clone https://github.com/18201550122/GOOGL-Stock-Prediction.git
 cd GOOGL-Stock-Prediction
 
 # Install dependencies
@@ -135,5 +135,6 @@ MIT License
 
 ## Author
 
-Zhao Song Nan - Northeastern University  
-MS in Information Systems (Data Engineering & Software Development)
+Yi Zhang - Northeastern University  
+Songnan Zhao - Northeastern University  
+Huizhen Zheng - Northeastern University  
