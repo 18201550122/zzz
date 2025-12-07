@@ -47,17 +47,12 @@ This end-to-end data science project covers:
 ## Project Structure
 
 ```
-├── Data/
-│   ├── GOOGL_2y_Dataset.csv      # Main dataset
-│   └── sample_data.csv           # Sample for prediction demo
-├── Notebooks/
-│   └── GOOGL_Stock_Prediction.ipynb  # Main notebook (EDA + Modeling + Prediction)
-├── Model/
-│   └── xgboost_best_model.pkl    # Saved best model
-├── Slides/
-│   └── presentation.pdf          # Project presentation
-├── summary/
-│   └── one_page_summary.pdf      # One-page observation summary
+├── GOOGL_2y_Dataset.csv      # Main dataset
+├── sample_data.csv           # Sample for prediction demo
+├── GOOGL_ML_Prediction (Part1&2&3).ipynb  # Main notebook (EDA + Modeling + Prediction)
+├── xgboost_best_model.pkl    # Saved best model
+├── Slides.pdf          # Project presentation
+├── summary.pdf      # One-page observation summary
 └── README.md
 ```
 
@@ -76,7 +71,7 @@ pip install yfinance fredapi pandas numpy xgboost scikit-learn matplotlib
 
 ### Run the Notebook
 ```bash
-jupyter notebook Notebooks/GOOGL_Stock_Prediction.ipynb
+jupyter notebook Notebooks/GOOGL_ML_Prediction (Part1&2&3).ipynb
 ```
 
 ### Quick Prediction Demo
