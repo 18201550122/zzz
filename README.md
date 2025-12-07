@@ -1,6 +1,6 @@
-# GOOGL Stock Market Prediction
+# Google Stock Market Prediction
 
-Predicting next-day GOOGL price movements using machine learning with technical indicators and market sentiment data.
+Predicting next-day Google (GOOGL) price movements using machine learning with technical indicators and market sentiment data.
 
 ## Project Overview
 
