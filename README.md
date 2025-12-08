@@ -47,12 +47,18 @@ This end-to-end data science project covers:
 ## Project Structure
 
 ```
-├── GOOGL_2y_Dataset.csv      # Main dataset
-├── sample_data.csv           # Sample for prediction demo
-├── GOOGL_ML_Prediction (Part1&2&3).ipynb  # Main notebook (EDA + Modeling + Prediction)
-├── xgboost_best_model.pkl    # Saved best model
-├── Slides.pdf          # Project presentation
-├── summary.pdf      # One-page observation summary
+├── Data/
+│   ├── GOOGL_2y_Dataset.csv      # Main dataset
+│   └── sample_data.csv           # Sample for prediction demo
+├── Notebooks/                    # Main notebooks (EDA + Modeling + Prediction)
+│   └── EDA.ipynb
+│   └── Modeling.ipynb
+│   └── Prediction.ipynb
+├── Model/
+│   └── xgboost_best_model.pkl    # Saved best model
+├── Slides/
+│   └── presentation.pdf          # Project presentation
+├── summary.pdf                   # One-page observation summary
 └── README.md
 ```
 
